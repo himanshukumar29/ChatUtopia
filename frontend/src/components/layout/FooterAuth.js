@@ -8,7 +8,7 @@ import {
 export default function FooterAuth() {
     return (
         <Box
-            pos="relative" bottom="-170" 
+            pos="relative" bottom="-200" 
             bgColor={'black'} textColor={'white'}>
             <Container
                 as={Stack}
